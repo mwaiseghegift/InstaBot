@@ -1,0 +1,1 @@
+pip install instapy==0.6.8
